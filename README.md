@@ -1,8 +1,4 @@
 #  Voice Powered RAG System 🎙️
-<p align="center">
-<a href="https://trendshift.io/repositories/11584" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11584" alt="PromtEngineer%2FVerbi | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
 ## Motivation ✨✨✨
 
 Welcome to the Voice Powered RAG system! 🎙️ Our goal is to create a modular voice assistant application that allows you to experiment with state-of-the-art (SOTA) models for various components. The modular structure provides flexibility, enabling you to pick and choose between different SOTA models for transcription, response generation, and text-to-speech (TTS). This approach facilitates easy testing and comparison of different models, making it an ideal platform for research and development in voice assistant technologies. Whether you're a developer, researcher, or enthusiast, this project is for you!
@@ -103,9 +99,5 @@ Edit config.py to select the models you want to use:
 ```shell
    python run_voice_assistant.py
 ```
-
-## Star History ✨✨✨
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/Verbi&type=Date)](https://star-history.com/#PromtEngineer/Verbi&Date)
 
 
