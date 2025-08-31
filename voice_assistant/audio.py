@@ -1,5 +1,4 @@
 # voice_assistant/audio.py
-# also can ude pyaudio to get ride of microphone
 import sounddevice as sd
 import soundfile as sf
 from pydub import AudioSegment
