@@ -1,10 +1,8 @@
 # voice_assistant/transcription.py
-
 import json
 import logging
 import requests
 import time
-
 from colorama import Fore, init
 from openai import OpenAI
 from groq import Groq
