@@ -1,6 +1,6 @@
 # voice_assistant/main.py
 # Chatbot reply voice to text 
-# Updated changes
+# Updated Changes
 import logging
 import time
 from colorama import Fore, init
