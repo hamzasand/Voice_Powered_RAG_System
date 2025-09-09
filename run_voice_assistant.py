@@ -1,4 +1,4 @@
-# voice_assistant/main.py
+# Voice_Assistant/main.py
 # Chatbot Reply voice to text 
 # Updated Changes
 import logging
