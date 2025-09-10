@@ -1,4 +1,4 @@
-# Sever settings for local server
+# Sever Settings for local server
 import subprocess
 import uvicorn
 from fastapi import FastAPI, HTTPException
