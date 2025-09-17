@@ -1,4 +1,4 @@
-# voice_assistant/audio.py
+# Voice_assistant/audio.py
 import sounddevice as sd
 import soundfile as sf
 from pydub import AudioSegment
