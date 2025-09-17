@@ -39,7 +39,7 @@ def get_device():
     else:
         return 'cpu'
 
-# Initialize the TTS model
+# Initialize the TTS Model
 device = get_device()  # Determine the appropriate device
 model = TTS(language='EN', device=device)
 speaker_ids = model.hps.data.spk2id
