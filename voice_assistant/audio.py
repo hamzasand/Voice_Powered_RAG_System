@@ -7,7 +7,7 @@ import time
 import logging
 import os
 
-# Configure logging
+# Configure Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 # Here set the duuration of listining of model via mic as duration=15 seconds which can be increse and decrease
 def record_audio(file_path_mp3, duration=15, samplerate=22050, channels=1):
