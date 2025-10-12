@@ -1,5 +1,4 @@
 # voice_assistant/utils.py
-
 import os
 import logging
 
