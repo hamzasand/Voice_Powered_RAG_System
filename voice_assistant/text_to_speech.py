@@ -2,9 +2,10 @@
 import logging
 import json
 import pyaudio
+import requests
 import elevenlabs
 import soundfile as sf
-import requests
+
 
 from openai import OpenAI
 from deepgram import DeepgramClient, SpeakOptions
