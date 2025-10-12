@@ -1,5 +1,4 @@
 # voice_assistant/text_to_speech.py
-
 import json
 import pyaudio
 import logging
