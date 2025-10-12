@@ -1,7 +1,9 @@
 # voice_assistant/text_to_speech.py
-import logging
+
 import json
 import pyaudio
+import logging
+
 import requests
 import elevenlabs
 import soundfile as sf
