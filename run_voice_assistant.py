@@ -1,5 +1,4 @@
 # Voice_Assistant/main.py
-
 import logging
 import time
 from colorama import Fore, init
