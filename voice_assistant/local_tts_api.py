@@ -1,10 +1,11 @@
 # There also be can use for the purpose of local llm case
 import uuid
 import torch
+from config import Config
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from melotts.api import TTS
-from config import Config
+
 
 
 
