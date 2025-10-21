@@ -3,8 +3,9 @@ import uuid
 import torch
 from config import Config
 from melotts.api import TTS
-from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
+from fastapi import FastAPI, HTTPException
+
 
 
 
