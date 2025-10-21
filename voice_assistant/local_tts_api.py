@@ -6,10 +6,6 @@ from melotts.api import TTS
 from pydantic import BaseModel, Field
 from fastapi import FastAPI, HTTPException
 
-
-
-
-
 app = FastAPI()
 
 class TextToSpeechRequest(BaseModel):
