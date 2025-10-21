@@ -7,10 +7,6 @@ import soundfile as sf
 import sounddevice as sd
 from pydub import AudioSegment
 
-
-
-
-
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 # Here Set the duuration of listining of model via mic as duration=15 seconds which can be increse and decrease
