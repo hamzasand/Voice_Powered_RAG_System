@@ -10,7 +10,6 @@ from fastapi import FastAPI, HTTPException
 
 
 
-
 app = FastAPI()
 
 class TextToSpeechRequest(BaseModel):
