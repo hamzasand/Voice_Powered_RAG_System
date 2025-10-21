@@ -1,10 +1,11 @@
 # There also be can use for the purpose of local llm case
+import uuid
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from melotts.api import TTS
 from config import Config
 import torch
-import uuid
+
 
 app = FastAPI()
 
