@@ -1,12 +1,10 @@
 # Voice_Assistant/audio.py
-
 import os
 import time
 import pygame
 import logging
 import soundfile as sf
 import sounddevice as sd
-
 from pydub import AudioSegment
 
 
