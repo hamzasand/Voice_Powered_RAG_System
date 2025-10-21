@@ -2,10 +2,11 @@
 
 import os
 import time
+import pygame
 import sounddevice as sd
 import soundfile as sf
 from pydub import AudioSegment
-import pygame
+
 
 import logging
 
