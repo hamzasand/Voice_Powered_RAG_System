@@ -1,11 +1,13 @@
 # Voice_Assistant/audio.py
+
+import os
 import sounddevice as sd
 import soundfile as sf
 from pydub import AudioSegment
 import pygame
 import time
 import logging
-import os
+
 
 # Configure Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
