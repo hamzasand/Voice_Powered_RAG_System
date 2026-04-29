@@ -6,6 +6,7 @@ import logging
 from colorama import Fore, init
 
 from voice_assistant.config import Config
+
 from voice_assistant.utils import delete_file
 from voice_assistant.text_to_speech import text_to_speech
 from voice_assistant.audio import record_audio, play_audio
