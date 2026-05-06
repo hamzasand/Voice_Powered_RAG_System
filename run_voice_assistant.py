@@ -2,7 +2,6 @@
 import time
 import logging
 from colorama import Fore, init
-
 from voice_assistant.config import Config
 
 from voice_assistant.utils import delete_file
