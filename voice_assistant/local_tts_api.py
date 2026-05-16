@@ -2,7 +2,6 @@
 import uuid
 
 import torch
-
 from config import Config
 from melotts.api import TTS
 from pydantic import BaseModel, Field
